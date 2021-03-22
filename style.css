@@ -1,0 +1,24 @@
+.column-justified {
+	text-align: justify;
+	text-justify: inter-word;
+	margin: auto;
+	left: 1%;
+	right: 1%;
+	position: absolute;
+	width: 500px;
+	float: center;
+	font-family: "DejaVu Sans Mono";
+	font-size: 14px
+}
+
+.column-right {
+	text-align: right;
+	margin: auto;
+	left: 1%;
+	right: 1%;
+	position: absolute;
+	width: 500px;
+	float: center;
+	font-family: "DejaVu Sans Mono";
+	font-size: 14px
+}
