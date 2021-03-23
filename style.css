@@ -22,3 +22,15 @@
 	font-family: "DejaVu Sans Mono";
 	font-size: 14px
 }
+
+.column-center {
+	text-align: center;
+	margin: auto;
+	left: 1%;
+	right: 1%;
+	position: absolute;
+	width: 500px;
+	float: center;
+	font-family: "DejaVu Sans Mono";
+	font-size: 14px
+}
