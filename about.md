@@ -25,7 +25,7 @@ I can do a thing or two with my       (((((((((    .,**,,*%%%%((((#*((%%%((/.
 cognitive skills, especially using    (((((((((((((,((*(,,((((((/**((%%%%%%%((
 them for problem solving and...       %(/((((((((((,..((((%%((,**(((%%%%%%%(((
 'other stuff' concerning my 'logic &  *&%%/***,(((((**((((*,  **((((%%%%%(((((
-reasoning skills'.```							 [higher-sexier-pic]
+reasoning skills'.```                           [higher-sexier-pic][1]
 ```
 my current plans for the future include:
 - [ ] a better understanding of the computer
@@ -37,4 +37,4 @@ forget later
 
 # SHANTIH! SHANTIH! SHANTIH!
 
-[higher-sexier-pic](https://zetef.github.io/about/hspic)
+[1]: https://zetef.github.io/about/hspic
