@@ -1,0 +1,1 @@
+# my various-topic blog
