@@ -1,5 +1,5 @@
 ---
-title: about
+title: /about
 layout: page
 permalink: /about
 ---
@@ -25,8 +25,8 @@ I can do a thing or two with my       (((((((((    .,**,,*%%%%((((#*((%%%((/.
 cognitive skills, especially using    (((((((((((((,((*(,,((((((/**((%%%%%%%((
 them for problem solving and...       %(/((((((((((,..((((%%((,**(((%%%%%%%(((
 'other stuff' concerning my 'logic &  *&%%/***,(((((**((((*,  **((((%%%%%(((((
-reasoning skills'.
-
+reasoning skills'.							    ```[higher-sexier-pic]
+```
 my current plans for the future include:
 - [ ] a better understanding of the computer
 - [ ] solving the N queens problem blindfolded 
@@ -36,3 +36,5 @@ forget later
 ```
 
 # SHANTIH! SHANTIH! SHANTIH!
+
+[higher-sexier-pic](https://zetef.github.io/about/hspic)
