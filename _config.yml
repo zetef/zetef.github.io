@@ -1,1 +1,15 @@
+title: "zetef.github.io"
+description: "my various-topic blog"
+baseurl: ""
+url: "https://zetef.github.io/"
+
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
+
+style: hacker
+
+footer: "-- peace"
+
 remote_theme: b2a3e8/jekyll-theme-console
