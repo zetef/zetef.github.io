@@ -8,8 +8,7 @@ permalink: /about
 ```zetef (a.k.a. tarskpean)```
 
 # $cat info plans mysterious_chant
-                                              [higher-sexier-pic][1]
-```
+~~~
 yep, this is not me, but John Oates   (**.,.*,.   ...  .   *   .** .  ,...   .
 has one hell of a look.               *,  , . .   .  ..  *,   .. ,*    .    .
                                       ... ...., * **,*.,. . . ,       .,*..   
@@ -26,16 +25,18 @@ I can do a thing or two with my       (((((((((    .,**,,*%%%%((((#*((%%%((/.
 cognitive skills, especially using    (((((((((((((,((*(,,((((((/**((%%%%%%%((
 them for problem solving and...       %(/((((((((((,..((((%%((,**(((%%%%%%%(((
 'other stuff' concerning my 'logic &  *&%%/***,(((((**((((*,  **((((%%%%%(((((
-reasoning skills'.                         
-
+reasoning skills'.
+~~~
+                                                [higher-sexier-pic]                      
+~~~
 my current plans for the future include:
 - [ ] a better understanding of the computer
 - [ ] solving the N queens problem blindfolded 
 - [X] write down another list of temporary-for-later-use-useful things to 
 forget later
 - [ ] the Way of the Hacker is not a checklist of skills
-```
+~~~
 
 # SHANTIH! SHANTIH! SHANTIH!
 
-[1]: https://zetef.github.io/about/hspic
+[higher-sexier-pic]: https://zetef.github.io/about/hspic
