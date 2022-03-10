@@ -27,7 +27,8 @@ them for problem solving and...       %(/((((((((((,..((((%%((,**(((%%%%%%%(((
 'other stuff' concerning my 'logic &  *&%%/***,(((((**((((*,  **((((%%%%%(((((
 reasoning skills'.
 ~~~
-                                                [higher-sexier-pic]                      
+                                                [higher-sexier-pic](https://zetef.github.io/about/hspic)
+												
 ~~~
 my current plans for the future include:
 - [ ] a better understanding of the computer
@@ -38,5 +39,3 @@ forget later
 ~~~
 
 # SHANTIH! SHANTIH! SHANTIH!
-
-[higher-sexier-pic]: https://zetef.github.io/about/hspic
