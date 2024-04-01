@@ -1,7 +1,7 @@
 ---
 title: /articles/CSCTF_2024/PWN.md
 layout: page
-permalink: /articles/CSCTF_2024/PWN.md
+permalink: /articles/CSCTF_2024/PWN
 ---
 
 # PWN
@@ -44,4 +44,4 @@ looks like we need to see more of the flag. we can open up `man ltrace` and read
 
 voilà!
 
-that's all for pwn... check out the next section [OSINT](OSINT.md).
+that's all for pwn... check out the next section [OSINT](./OSINT).
