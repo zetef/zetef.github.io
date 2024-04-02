@@ -14,10 +14,8 @@ because there was a total of 68 exercises out of which we managed to complete 53
 
 ## writeups:
 * [PWN](./PWN)
-* [OSINT]()
-* [MISC]()
-* [FORENSICS]()
-* [STEGANO]()
+* [OSINT](./OSINT)
+* [MISC](./MISC)
 * [CRYPTO]()
 * [WEB]()
 * [LINUX]()
