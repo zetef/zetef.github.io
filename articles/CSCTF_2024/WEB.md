@@ -1,7 +1,7 @@
 ---
 title: /articles/CSCTF_2024/WEB.md
 layout: page
-permalink: /article/CSCTF_2024/WEB
+permalink: /articles/CSCTF_2024/WEB
 ---
 
 # WEB
